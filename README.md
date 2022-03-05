@@ -1,2 +1,2 @@
 WonmenDay
-htpps://chithang0502.github.io/WomenDay/
+https://chithang050.github.io/WomenDay/
