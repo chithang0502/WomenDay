@@ -1,2 +1,2 @@
 WonmenDay
-htpps://chithang0502.github.io/WomenDay/
+git clone https://github.com/chithang0502/WomenDay.github.io
